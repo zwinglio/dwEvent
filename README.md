@@ -1,15 +1,16 @@
 # dwEvent
 
-## Sobre o sistema
+### Sobre o sistema
 
-Sistema de gerenciamento de eventos. Que recebe trabalhos, avalia, confirma pagamentos e etc. Não é um portal, e sim um painel de gerenciamento
+Sistema de gerenciamento de eventos. Que recebe trabalhos, avalia, confirma pagamentos e etc. Não é um portal mas apenas um painel.
 
 ### Pendências
+- Sistema de login
+- CRUD
+- Sistema de envio de arquivos
+- Sistem de avaliação de trabalhos
 
-### Changelog
+### Envolvidos
 
-## Envolvidos
-
-Samuel Zwinglio
-
-Ramon Saldanha <3
+- Samuel Zwinglio
+- Ramon Saldanha ♥
